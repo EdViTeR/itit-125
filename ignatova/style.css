@@ -3,7 +3,11 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-image: url('https://avatars.mds.yandex.net/i?id=b52174d0936c4352edf1d994c7a96e88_l-4246574-images-thumbs&n=13');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
     min-height: 100vh;
     color: #333;
 }
